@@ -303,7 +303,7 @@ Ce pipeline permet :
 Ajouter ici une capture de votre dashboard Power BI :
 
 ```markdown
-![Dashboard](Screenshots/football_analytics_dashboard.png)
+![Dashboard](Screenshots/football_analytics_dashboard.PNG)
 ```
 
 ---

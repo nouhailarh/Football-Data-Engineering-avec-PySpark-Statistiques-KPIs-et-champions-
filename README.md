@@ -298,16 +298,6 @@ Ce pipeline permet :
 
 ---
 
-# 📷 Exemple de dashboard
-
-Ajouter ici une capture de votre dashboard Power BI :
-
-```markdown
-![Dashboard](Screenshots\football_analytics_dashboard.PNG)
-```
-
----
-
 # ▶️ Lancer le projet
 
 ## Installation des dépendances
